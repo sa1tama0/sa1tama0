@@ -2,7 +2,7 @@
 
 **Cybersecurity Professional | Web & Mobile Penetration Testing | Bug Bounty Hunter | Security Enthusiast**
 
-With over **6 years of hands-on experience** in **web and mobile penetration testing**, I specialize in identifying and mitigating security vulnerabilities to strengthen organizational security postures. My expertise spans across various industries, where I have contributed to enhancing cybersecurity resilience through **proactive assessments** and **strategic recommendations**.
+With over **7 years of hands-on experience** in **web and mobile penetration testing**, I specialize in identifying and mitigating security vulnerabilities to strengthen organizational security postures. My expertise spans across various industries, where I have contributed to enhancing cybersecurity resilience through **proactive assessments** and **strategic recommendations**.
 
 ### **Connect with Me**
 - [LinkedIn](https://www.linkedin.com/in/sa1tama0)
